@@ -1,6 +1,6 @@
 
-const BLOCKEXPLORER_MAINNET_ADDRESS_ENDPOINT = 'https://blockchain.info/ja/address/:ADDRESS:';
-const BLOCKEXPLORER_TESTNET_ADDRESS_ENDPOINT = 'https://live.blockcypher.com/btc-testnet/address/:ADDRESS:';
+const BLOCKEXPLORER_MAINNET_ADDRESS_ENDPOINT = 'https://ghostscan.io/address/:ADDRESS:';
+const BLOCKEXPLORER_TESTNET_ADDRESS_ENDPOINT = 'https://testnet-ghostscan.io/address/:ADDRESS:';
 
 var bitcore = require('bitcore-lib');
 
